@@ -9,7 +9,7 @@
 <link>https://archmetaldbm.github.io/globalid/blog.html</link>
 <atom:link href="https://archmetaldbm.github.io/globalid/blog.xml" rel="self" type="application/rss+xml"/>
 <description>The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences.</description>
-<generator>quarto-1.6.43</generator>
+<generator>quarto-1.7.30</generator>
 <lastBuildDate>Sat, 15 Jun 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>White nights, red houses and lots of slag</title>
@@ -20,13 +20,11 @@
 
 
 
+
 <p>The 6<sup>th</sup> Archaeometallurgy in Europe conference (11 to 14 June 2024) took place in the old mining town Falun, the capital of Dalarnas region with its picturesque landscape. Known worldwide for its old open cast copper mine and Falun red – the typical red colour of Swedish houses –, Falun gave a very fitting environment for the European archaeometallurgy community to meet and discuss the latest news in the field.</p>
 <p>Numerous presentations and posters informed, among others, about the latest state of the lead isotope method and new approaches on statistical methods and how to combine it with other analytical methods to increase its discriminatory power. The TerraLID team presented the scope and plans for TerraLID as a poster. The conference offered plenty of opportunities to make TerraLID more widely known in the community and to discuss its aims and strategies on how to move forward. Once more, it became clear that an infrastructure for easy access to and standardised documentation of lead isotope data and their context are urgently needed and that the community is full with anticipation for TerraLID.</p>
 <p>The excellent side programme provided ample opportunities to continue these discussions in a more informal atmosphere and to get acquainted with the rich mining history and beautiful landscape of Dalarnas region. The size and number of slag heaps amidst beautiful forests and lakes around Falun are outstanding and still could give only a glimpse in how profoundly mining impacted the region in the past. After the tours, the white nights and nice bars set the perfect atmosphere to catch-up with friends and colleagues until the early mornings.</p>
 <p>We were very happy to be part of this well-organised conference and to see that the interest and enthusiasm for TerraLID remained unchanged on a high level. See you next time, 2027 in Granada!</p>
-<div>
-
-</div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
@@ -64,6 +62,7 @@
 
 
 
+
 <p>The next step is done!</p>
 <p>On 14 May, our kick-off meeting took place online to present the progress and the name change from GlobaLID to TerraLID to the community. The offer to participate and exchange ideas was very well received by the up to 40 participants. The aim was to involve the community in the development of TerraLID and to find out what requirements the community has for TerraLID to be able to respond to them specifically in the further development. Thomas Rose presented the TerraLID roadmap in a very vivid presentation and then demonstrated the web app in a simulation. Last but not least, the individual regional editors presented themselves and their work.</p>
 <p>The meeting was a complete success and there was a lot of positive feedback. It was nice to see how much interest there is in TerraLID from the community.</p>
@@ -85,6 +84,7 @@
 
 
 
+
 <p>We cordially invite you to the webinar that kicks-off the transformation of GlobaLID into TerraLID on Tuesday, 14 May at 4 pm CEST (= 2 pm UTC) via <a href="https://thga-de.zoom-x.de/j/67811470019?pwd=V1NyMDYvQ2J1c05sQzhuU2FaUGJqZz09">Zoom</a>.</p>
 <p>The kick-off event showcases the current features of GlobaLID with a <a href="../assets/Kick-off_Example.csv">small sample dataset</a>. Subsequently, we will present the vision and planned features of TerraLID and how you can shape its development. Moreover, our <a href="../team.html#regional-editors">regional editors</a> will share some impressions from their work on the data infrastructure. There will be ample time for questions and discussions.</p>
 <p>Our aim is to develop TerraLID as close to the needs of the community as possible. Therefore, this event will be the first in a series of virtual open events, where we will ask for your feedback on crucial parts in the design of TerraLID. We will announce them here and through the usual channels in due time – stay tuned!</p>
@@ -100,6 +100,7 @@
   <dc:creator>Thomas Rose</dc:creator>
   <link>https://archmetaldbm.github.io/globalid/posts/20240301_DataPub.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -130,6 +131,7 @@
 
 
 
+
 <p>GlobaLID set out <a href="../posts/20230823_Funding.html">on the journey towards becoming a full-fledged data infrastructe in into its funded phase</a> with an institution-internal kick-off meeting on 7 February. All stakeholders at the Deutsches Bergbau-Museum Bochum (DBM), Technische Hochschule Georg Agricola (THGA) and the DMT Society for Teaching and Education (DMT-LB) were informed about GlobaLID, our vision and the work programme of the DFG-funded project. Subsequently, discussions focussed on where GlobaLID positions itself regarding similar activities at the DBM and in Germany (esp., NFDI4Objects), the internal organisation of the project, on general strategies to implement the work programme, and on the organisation of our dissemination activities.</p>
 <p>The public kick-off will take place on 14 May at 15:00 GMT via <a href="https://thga-de.zoom-x.de/j/67811470019?pwd=V1NyMDYvQ2J1c05sQzhuU2FaUGJqZz09">Zoom</a>. You are cordially invited to join!</p>
 
@@ -145,6 +147,7 @@
   <dc:creator>Thomas Rose</dc:creator>
   <link>https://archmetaldbm.github.io/globalid/posts/20240104_Data2023.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -174,6 +177,7 @@
 
 
 
+
 <p>For several months now, the GlobaLID Core Team has been working on “Lead Isotopes in Archaeology: An Interactive Textbook”. The aim is to provide an open educational resource about the lead isotope method and its application in archaeology as a textbook. In contrast to traditional textbooks, the format as a webpage allows the inclusion of interactive content and other multimedia elements. In addition, it makes it easy to update and expand the textbook over time. The textbook is designed as an edited volume to give appropriate credit to all contributors.</p>
 <p>We are delighted to announce the launch of its first version: <a href="https://archmetaldbm.github.io/GlobaLID-Edu/" class="uri">https://archmetaldbm.github.io/GlobaLID-Edu/</a></p>
 <p>This initial version was supported through an <a href="https://nfdi4earth.de/2participate/education-training?view=article&amp;id=314&amp;catid=15">NFDI4Earth Educational Pilot</a>.</p>
@@ -193,6 +197,7 @@
   <dc:creator>Virginie Renson</dc:creator>
   <link>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -221,6 +226,7 @@
 
 
 
+
 <p>We are excited to announce that GlobaLID received a major grant from the Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) for a three-year digital infrastructure project to turn the prototypes into a full version. The project will start in February 2024 and will include many opportunities for you to provide feedback and input to ensure that GlobaLID will meet your needs and expectations. In the major work packages, we will continue to work on</p>
 <ul>
 <li>An online database that stores lead isotope data in accordance with the FAIR principles, enhanced by workflows for the publication and curation of the data</li>
@@ -244,6 +250,7 @@
   <dc:creator>Katrin J. Westner</dc:creator>
   <link>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -281,6 +288,7 @@
 
 
 
+
 <p>Members of the GlobaLID Core Team are participating in the <a href="https://alexandriaarchive.org/nadac/">NEH Institute for Advanced Topics in the Digital Humanities “Networking Archaeological Data and Communities”</a>, a two-year programme of The Alexandria Archive Institute / Open Context. The institute teaches about the management of archaeological data in monthly online workshops and in-person summer schools.</p>
 <p>I was able to attend the <a href="https://alexandriaarchive.org/2023/08/23/icing-on-the-cake-lessons-from-the-2023-nadac-summer-workshop/">first summer school</a> in July 2023 at the Badè Museum of Archaeology on the campus of Pacific School of Religion in Berkeley, CA (USA). It was a very welcomed opportunity to meet the other participants in person after seeing them via Zoom and to get to know each other in real life. After short presentations of the current state of the participants’ projects, the summer school programme focused on data management plans and linked data.</p>
 <p>In preparation for the summer school, each project drafted a data management plan (if not already existing) which was then discussed in small groups. This allowed us to get deeper insights into some of the projects and especially how data are handled by them. The feedback provided a lot of helpful suggestions for the revision of the data management plan but also for the project itself.</p>
@@ -305,6 +313,7 @@
   <dc:creator>Thomas Rose</dc:creator>
   <link>https://archmetaldbm.github.io/globalid/posts/first post.html</link>
   <description><![CDATA[ 
+
 
 
 
