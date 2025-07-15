@@ -1,79 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
-    <lastmod>2025-05-12T11:16:47.786Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
-    <lastmod>2025-05-12T11:16:47.786Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/workshop-current.html</loc>
-    <lastmod>2025-05-12T11:16:47.788Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
-    <lastmod>2025-05-12T11:16:47.786Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20240104_Data2023.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20230730_NADAC.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20240414_Kick-off.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20230823_Funding.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
+    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
+    <lastmod>2025-07-15T08:36:57.273Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20240606_Kick-off.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20240615_AiE-report.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20240301_DataPub.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20240215_KickOff.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/posts/20231215_Textbook.html</loc>
-    <lastmod>2025-05-12T11:16:47.787Z</lastmod>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20240615_AiE-report.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20240104_Data2023.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20240215_KickOff.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20240414_Kick-off.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20250715_Goodbye.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/workshop-archive.html</loc>
-    <lastmod>2025-05-12T11:16:47.788Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
-    <lastmod>2025-05-12T11:16:47.788Z</lastmod>
+    <lastmod>2025-07-15T08:36:57.273Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
-    <lastmod>2025-05-12T11:16:47.780Z</lastmod>
+    <lastmod>2025-07-15T08:36:57.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
+    <lastmod>2025-07-15T08:36:57.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/workshop-current.html</loc>
+    <lastmod>2025-07-15T08:36:57.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20240301_DataPub.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20240606_Kick-off.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20230823_Funding.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20230730_NADAC.html</loc>
+    <lastmod>2025-07-15T08:36:57.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
+    <lastmod>2025-07-15T08:36:57.271Z</lastmod>
   </url>
 </urlset>

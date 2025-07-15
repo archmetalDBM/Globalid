@@ -9,8 +9,28 @@
 <link>https://archmetaldbm.github.io/globalid/blog.html</link>
 <atom:link href="https://archmetaldbm.github.io/globalid/blog.xml" rel="self" type="application/rss+xml"/>
 <description>The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences.</description>
-<generator>quarto-1.7.30</generator>
-<lastBuildDate>Sat, 15 Jun 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Tue, 15 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>terralid.org online</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20250715_Goodbye.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>After <a href="../posts/20240414_Kick-off.html">renaming GlobaLID to TerraLID</a>, today marks the launch of the <a href="https://terralid.org/">TerraLID webpage</a> more information about TerraLID and current updates about the project wrapped into a new look. Follow us there to stay informed about developments in the project, such as the launch of the community feedback phase for the <a href="https://metadata.terralid.org/latest/">TerraLID metadata profile</a>!</p>
+<p>If you subscribed to our RSS feed, please do not forget to update the link to <a href="https://terralid.org/blog.xml" class="uri">https://terralid.org/blog.xml</a> to receive the latest updates.</p>
+<p>The GlobaLID page remains online for archival reasons until further notice.</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20250715_Goodbye.html</guid>
+  <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>White nights, red houses and lots of slag</title>
   <dc:creator>Thomas Rose</dc:creator>
