@@ -2,6 +2,10 @@
 title: "Archive"
 ---
 
+::: {.callout-important title="Page moved"}
+GlobaLID was renamed to TerraLID. Please visit [terralid.org](https://terralid.org/) for up-to-date content. This webpage is no longer updated. 
+:::
+
 ## Many LIDs, but none matching the vessel 
 
 Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- A brainstorming workshop 

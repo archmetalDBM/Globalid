@@ -1,0 +1,17 @@
+---
+title: "terralid.org online"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-07-15"
+description: 'Follow us to terralid.org to stay informed about the project'
+
+
+---
+
+After [renaming GlobaLID to TerraLID](20240414_Kick-off.qmd), today marks the launch of the [TerraLID webpage](https://terralid.org/) more information about TerraLID and current updates about the project wrapped into a new look. Follow us there to stay informed about developments in the project, such as the launch of the community feedback phase for the [TerraLID metadata profile](https://metadata.terralid.org/latest/)! 
+
+If you subscribed to our RSS feed, please do not forget to update the link to <https://terralid.org/blog.xml> to receive the latest updates. 
+
+The GlobaLID page remains online for archival reasons until further notice. 

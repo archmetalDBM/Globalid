@@ -2,6 +2,10 @@
 title: "Team"
 ---
 
+::: {.callout-important title="Page moved"}
+GlobaLID was renamed to TerraLID. Please visit [terralid.org](https://terralid.org/) for up-to-date content. This webpage is no longer updated. 
+:::
+
 We are open to new members. If you are interested in joining us, please get in touch via [mail](mailto:globalid@bergbaumuseum.de?subject=GlobaLID) or at a [conference](events.qmd)! 
 
 ## Project team

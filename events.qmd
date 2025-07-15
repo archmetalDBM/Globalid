@@ -2,6 +2,10 @@
 title: "Events"
 ---
 
+::: {.callout-important title="Page moved"}
+GlobaLID was renamed to TerraLID. Please visit [terralid.org](https://terralid.org/) for up-to-date content. This webpage is no longer updated. 
+:::
+
 GlobaLID will be and was presented at the following meetings. For workshops organised by the GlobaLID Team, please see our [workshop page](workshop-current.qmd). 
 
 ## Upcoming
